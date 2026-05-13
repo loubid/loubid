@@ -64,14 +64,14 @@ class Loubid:
 
 ## 🚀 Featured Projects
 
-### 🔍 Job Market Skills Analyzer
+### [🔍 Job Market Skills Analyzer](https://github.com/loubid/DataScienceTools-Project)
 > **What skills do companies actually want?** I scraped thousands of job listings from **Glassdoor** and **Wuzzuf**, cleaned and analyzed the data, and surfaced the most in-demand skills for Data Science & tech roles in Egypt and globally.
 
 `Python` · `BeautifulSoup / Scrapy` · `Pandas` · `Data Visualization`
 
 ---
 
-### 🅿️ Smart Parking System (IoT)
+### [🅿️ Smart Parking System (IoT)](https://github.com/loubid/VisionGate)
 > An end-to-end IoT project where sensors detect parking availability in real time. Users sign in and manage their spot through a **Flutter mobile app** — no more circling the block.
 
 `IoT Sensors` · `Flutter` · `Dart` · `Real-Time Data` · `Embedded Systems`
