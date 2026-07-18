@@ -15,7 +15,7 @@
 
 ```python
 class Loubid:
-    role        = "3rd Year CS Student · Computing & Data Science"
+    role        = "4rd Year CS Student · Computing & Data Science"
     location    = "Egypt 🇪🇬"
     status      = "Open to Internships & Work Opportunities "
     focus       = ["Data Science", "Data Engineering", "Machine Learning", "AI"]
