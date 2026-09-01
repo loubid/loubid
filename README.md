@@ -1,5 +1,3 @@
-  انا عاوز اضيف الريبو دي https://github.com/loubid/Rag_Assistant.git 
- هنا <div align="center">
 
 # Hey there, I'm Loubid 👋
 ### Data Science & Computing Student · Open to Internships & Work
@@ -65,8 +63,7 @@ class Loubid:
 
 ## 🚀 Featured Projects
 
-### [🤖 RAG Assistant](https://github.com/loubid/RAG-Assistant)
-
+### [🤖 RAG Assistant](https://github.com/loubid/Rag_Assistant)
 > **Ask questions. Get grounded answers.** An intelligent **Retrieval-Augmented Generation (RAG)** system for document-based question answering. It processes **PDF documents**, extracts text and tables, generates **multilingual semantic embeddings**, stores them in **ChromaDB**, routes user queries, retrieves relevant context, and uses an **LLM** to generate accurate, context-grounded answers.
 
 `Python` · `RAG` · `ChromaDB` · `Sentence Transformers` · `PyTorch` · `CUDA` · `LangChain` · `LLMs`
