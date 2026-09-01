@@ -64,6 +64,14 @@ class Loubid:
 
 ## 🚀 Featured Projects
 
+
+🤖 RAG Assistant
+
+An intelligent Retrieval-Augmented Generation (RAG) system for document-based question answering. The system processes PDF documents, extracts text and tables, generates multilingual semantic embeddings, stores them in ChromaDB, routes user queries, retrieves relevant context, and uses an LLM to generate grounded answers.
+
+Python · RAG · ChromaDB · Sentence Transformers · PyTorch · CUDA · LangChain · LLMs
+
+
 ### [🔍 Job Market Skills Analyzer](https://github.com/loubid/DataScienceTools-Project)
 > **What skills do companies actually want?** I scraped thousands of job listings from **Glassdoor** and **Wuzzuf**, cleaned and analyzed the data, and surfaced the most in-demand skills for Data Science & tech roles in Egypt and globally.
 
