@@ -1,14 +1,18 @@
 
+<div align="center">
+
 # Hey there, I'm Loubid 👋
+
 ### Data Science & Computing Student · Open to Internships & Work
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Data+%26+AI+Enthusiast+%F0%9F%A4%96;Big+Data+Explorer+%F0%9F%93%8A;Building+Things+That+Matter+%F0%9F%94%A7;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=22\&pause=1000\&color=3B82F6\&center=true\&vCenter=true\&width=600\&lines=Data+%26+AI+Enthusiast+%F0%9F%A4%96;Big+Data+Explorer+%F0%9F%93%8A;Building+Things+That+Matter+%F0%9F%94%A7;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=loubid&label=Profile+Views&color=3b82f6&style=flat" alt="profile views" />
 
 </div>
 
 ---
+
 
 ## 🧠 About Me
 
